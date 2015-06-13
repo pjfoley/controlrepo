@@ -44,5 +44,5 @@ mod 'yguenane/ygrpms', '0.1.0'
 #mod 'zack/r10k', '1.0.2'
 
 # Modules from Github
-mod 'lab_config',
-  :git => 'git@github.com:puppetinabox/lab_config.git'
+#mod 'lab_config',
+#  :git => 'git@github.com:puppetinabox/lab_config.git'
